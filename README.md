@@ -37,3 +37,17 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 3. Run `npm run dev`
 4. Make your changes
 5. Connect to [Netlify](https://url.netlify.com/Bk4UicocL) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
+
+http://fortune.daa.jp/hosigamitaiju/index.php?tib
+https://drill.lovesick.jp/drilldata/index.php?tib
+http://l-seed.jp/harusutawiki/index.php?tib
+http://rpg.wiki-poi.com/foundead/index.php?tib
+http://www.takeposo.sakura.ne.jp/wiki/index.php?tib
+http://nakigao.sitemix.jp/nakiwiki/?tib
+https://ilde.upf.edu/v/7mkw
+https://groups.google.com/g/tibagroups
+https://smlnj-gforge.cs.uchicago.edu/snippet/detail.php?type=snippet&id=7924
+http://hakatath.ed.jp/~fc/index.php?tib
+https://store77383012.company.site/
+https://telegra.ph/Tiba-Blog-My-Favoirate-Links-Byes-07-20
+http://sym-bio.jpn.org/nuclearinfo/webtext/index.php?Tib
