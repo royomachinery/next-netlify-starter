@@ -33,6 +33,7 @@ https://www.bloglovin.com/@javidgarshasby/12067457
 https://abis.gitbook.io/hmh-chyz-dr-mwrd-bazar-jhany-farks/
 https://digikala.neocities.org/arznow
 https://elderassociation.mn.co/members/18126323
+https://royomachinery.com
 https://www.credly.com/users/sows-boeuse/badges
 https://thankyou.tribe.so/user/arznow_bows
 https://www.gamespot.com/profile/arznow/
